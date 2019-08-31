@@ -11,7 +11,7 @@ Useful resources:
   - For class related requests, send to Patty Hubbard (<phubbar3@jhu.edu>)
   - To notify staff of intent to submit an grant application: BiostatPre-award@jhu.edu
 - To get card access to stat library, need to fill out a form available in front office
-- [JHU Genomics 2018-2019 Speaker Schedule](https://docs.google.com/spreadsheets/d/1QXBEKjbtLt07nquuvTa-bb0oJ41NQ83pQBvvoMi78vA/edit?usp=sharing)
+- [JHU Genomics 2019-2020 Speaker Schedule](https://docs.google.com/spreadsheets/d/1biWiZY5oW-R-nQVCi2C67UfmO3OIw_JCDZhxlmgtLQE/edit?usp=sharing)
   - [Presentation format](https://docs.google.com/presentation/d/13nvYDX7LBEePhBEUrTG1_bWWYmMuQiEQBur5_GzcXWE/edit?usp=sharing)
 
 ## Postdoctoral Scientists
