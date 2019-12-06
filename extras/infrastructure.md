@@ -18,3 +18,6 @@ When a lab member joins, accounts should be created in:
 In addition, lab members should have accounts with 
 [GitHub](https://github.com).
 
+## Creating R/Bioconductor packages
+
+- [Tutorial from BiocAsia 2019](http://rpubs.com/Saskia/554320)
