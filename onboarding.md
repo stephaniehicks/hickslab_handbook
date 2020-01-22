@@ -156,3 +156,4 @@ To make changes, fork, edit the files you wish, and create a pull request.
 + [deployment checklist](extras/deployment_checklist.md)
 + [infrastructure](extras/infrastructure.md)
 + [newcomers info](extras/newcomers_info.md)
++ [conferences](extra/conferences.md)
